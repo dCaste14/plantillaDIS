@@ -13,4 +13,4 @@ Versión final de la aplicación:
 
 ________________________________________
 
-_**Alumno**: _
+_**David Castellano de la Fuente**: _
